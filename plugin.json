@@ -1,0 +1,343 @@
+{
+    "metadata": {
+        "author": "B",
+        "description": "📛🔻📛"
+    },
+    "data": [
+        {
+            "name": "123ds",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/123ds/plugin.zip",
+            "version": 3,
+            "source": "https://www.123duw.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/123ds/icon.png",
+            "description": "Đọc truyện trên trang https://www.123duw.com",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "ptwxzOrg",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ptwxzOrg/plugin.zip",
+            "version": 1,
+            "source": "https://ptwxz.org",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ptwxzOrg/icon.png",
+            "description": "Đọc truyện trên trang ptwxzOrg",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "5in1",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/5in1/plugin.zip",
+            "version": 29,
+            "source": "https://sangtacviet.vip",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/5in1/icon.png",
+            "description": "(5 trong 1) hỗ trợ đọc các web fanqie, qidian(chương free), 69shu, uukanshu, ptwxz, qimao (lên sangtacviet chỉ để lấy thông tin truyện với đọc bình luận cho tiện thôi) <br> nếu lỗi khi đọc mấy nguồn 69shu, uukanshu thì xoá mấy ext đó đi, dùng cái này cũng được",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "60ks",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/60ks/plugin.zip",
+            "version": 2,
+            "source": "http://m.60ks.cc",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/60ks/icon.png",
+            "description": "Đọc truyện trên trang 60ks.net",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "twkan",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/twkan/plugin.zip",
+            "version": 1,
+            "source": "https://twkan.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/twkan/icon.png",
+            "description": "Đọc truyện trên trang twkan",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "82zw",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/82zw/plugin.zip",
+            "version": 2,
+            "source": "https://www.82zw.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/82zw/icon.png",
+            "description": "Đọc truyện trên trang 82zw.com",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "8xsk",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/8xsk/plugin.zip",
+            "version": 1,
+            "source": "http://www.8xsk.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/8xsk/icon.png",
+            "description": "Đọc truyện trên trang http://www.8xsk.com",
+            "type": "chinese_novel",
+            "locale": "zh_CN",
+            "tag": "nsfw"
+        },
+        {
+            "name": "Buondua",
+            "author": "hieu05",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Buondua/plugin.zip",
+            "version": 1,
+            "source": "https://buondua.com/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Buondua/icon.png",
+            "description": "Tập Hợp Album của Xiuren...",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
+        {
+            "name": "ddxs",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ddxs/plugin.zip",
+            "version": 4,
+            "source": "https://www.ddxs.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ddxs/icon.png",
+            "description": "Đọc truyện trên trang ddxs.com",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "Độc giả số 1",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/%C4%90%E1%BB%99c%20gi%E1%BA%A3%20s%E1%BB%91%201/plugin.zip",
+            "version": 1,
+            "source": "https://docgiaso1.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/%C4%90%E1%BB%99c%20gi%E1%BA%A3%20s%E1%BB%91%201/icon.png",
+            "description": "Đọc truyện trên trang Net Truyện",
+            "type": "comic",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "downbook",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/downbook/plugin.zip",
+            "version": 2,
+            "source": "https://sj.downbook.cc/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/downbook/icon.png",
+            "description": "Đọc truyện trên trang downbook.cc",
+            "type": "chinese_novel",
+            "locale": "zh-CN"
+        },
+        {
+            "name": "kanshuwu",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/kanshuwu/plugin.zip",
+            "version": 1,
+            "source": "http://www.kanshuwu.org/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/kanshuwu/icon.png",
+            "description": "Đọc truyện trên trang http://www.kanshuwu.org",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "kanunu8",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/kanunu8/plugin.zip",
+            "version": 3,
+            "source": "https://www.kanunu8.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/kanunu8/icon.png",
+            "description": "Đọc truyện trên trang https://www.kanunu8.com",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "Kỳ huyễn",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/K%E1%BB%B3%20huy%E1%BB%85n/plugin.zip",
+            "version": 1,
+            "source": "https://kyhuyen.com/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/K%E1%BB%B3%20huy%E1%BB%85n/icon.png",
+            "description": "Đọc truyện trên trang Kỳ huyễn kyhuyen.com",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "lkdttzz",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/lkdttzz/plugin.zip",
+            "version": 1,
+            "source": "https://lkdttzz.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/lkdttzz/icon.png",
+            "description": "Đọc truyện trên trang Net Truyện",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
+        {
+            "name": "Men18",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Men18/plugin.zip",
+            "version": 4,
+            "source": "https://hen18.vip/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Men18/icon.png",
+            "description": "Đọc truyện trên trang men18",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
+        {
+            "name": "ntruyen",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ntruyen/plugin.zip",
+            "version": 6,
+            "source": "https://ntruyen.vn/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ntruyen/icon.png",
+            "description": "Truyện chữ tùm lum...",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "qubook",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/qubook/plugin.zip",
+            "version": 2,
+            "source": "https://sj.qubook.cc/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/qubook/icon.png",
+            "description": "Đọc truyện trên trang qubook.cc",
+            "type": "chinese_novel",
+            "locale": "zh-CN"
+        },
+        {
+            "name": "ranwen",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ranwen/plugin.zip",
+            "version": 3,
+            "source": "http://www.ranwen.la",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ranwen/icon.png",
+            "description": "Đọc truyện trên trang http://www.ranwen.la",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "shushuwuxs",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/shushuwuxs/plugin.zip",
+            "version": 1,
+            "source": "https://www.shushuwuxs.com/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/shushuwuxs/icon.png",
+            "description": "Đọc truyện trên trang http://www.shushuwuxs.cọm",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+        {
+            "name": "tienhiep",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tienhiep/plugin.zip",
+            "version": 2,
+            "source": "https://tienhiep2.net",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tienhiep/icon.png",
+            "description": "Đọc truyện trên trang tienhiep.net",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "tigerfp",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tigerfp/plugin.zip",
+            "version": 3,
+            "source": "https://www.tigerfp.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tigerfp/icon.png",
+            "description": "Đọc truyện trên trang tigerfp.com",
+            "type": "chinese_novel",
+            "locale": "zh-CN"
+        },
+        {
+            "name": "Trùm Truyện",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Tr%C3%B9m%20Truy%E1%BB%87n/plugin.zip",
+            "version": 3,
+            "source": "https://trumtruyen.vn",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Tr%C3%B9m%20Truy%E1%BB%87n/icon.png",
+            "description": "Đọc truyện trên trang Truyện Full",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "truyenchuth",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenchuth/plugin.zip",
+            "version": 1,
+            "source": "https://truyenchuth.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenchuth/icon.png",
+            "description": "Truyện chữ, truyện tranh tùm lum...",
+            "type": "novel"
+        },
+        {
+            "name": "truyenfullCom",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenfullCom/plugin.zip",
+            "version": 4,
+            "source": "https://truyenfull.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenfullCom/icon.png",
+            "description": "Đọc truyện trên trang Truyện Full",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "truyenheo",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenheo/plugin.zip",
+            "version": 10,
+            "source": "https://truyensextv.cc/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenheo/icon.png",
+            "description": "Đọc truyện trên trang http://truyensextv.me tác giả là hajljnopera mà xóa rồi, dat-bi sửa",
+            "type": "novel",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+        },
+        {
+            "name": "Tu Chân Giới",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Tu%20Ch%C3%A2n%20Gi%E1%BB%9Bi/plugin.zip",
+            "version": 2,
+            "source": "https://tuchangioi.net/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Tu%20Ch%C3%A2n%20Gi%E1%BB%9Bi/icon.png",
+            "description": "Đọc truyện trên trang tienhiep.net",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
+        {
+            "name": "xinyushuwu",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/xinyushuwu/plugin.zip",
+            "version": 4,
+            "source": "https://m.xinyushuwu2.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/xinyushuwu/icon.png",
+            "description": "Đọc truyện trên trang xinyushuwu. tác giả hajljnopera mà xóa rồi, dat-bi sửa",
+            "type": "chinese_novel",
+            "tag": "nsfw"
+        },
+        {
+            "name": "xyushu5",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/xyushu5/plugin.zip",
+            "version": 2,
+            "source": "https://m.xyushu5.com/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/xyushu5/icon.png",
+            "description": "Đọc truyện trên trang https://www.xyushu5.com",
+            "type": "chinese_novel",
+            "locale": "zh_CN",
+            "tag": "nsfw"
+        },
+        {
+            "name": "zhenhunxiaoshuo",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/zhenhunxiaoshuo/plugin.zip",
+            "version": 1,
+            "source": "https://www.zhenhunxiaoshuo.com/",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/zhenhunxiaoshuo/icon.png",
+            "description": "Đọc truyện trên trang http://www.yikushan.cọm",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        }
+    ]
+}
